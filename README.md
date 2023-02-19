@@ -1,3 +1,7 @@
+![logo](https://github.com/PuneetSharma59/PuneetSharma59/blob/main/Banner.jpeg?raw=true)
+<h1 align="center">Hi 👋, I'm Puneet Sharma</h1>
+<h3 align="center">A passionate Game Developer from India</h3>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/puneetgamedev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puneet-sharma-160012244) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/PuneetSharma84 ) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PuneetGamedev) 
