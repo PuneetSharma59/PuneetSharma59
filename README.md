@@ -1,4 +1,4 @@
-![logo](https://github.com/PuneetSharma59/PuneetSharma59/blob/main/Banner.jpeg?raw=true)
+![logo](https://github.com/PuneetSharma59/PuneetSharma59/blob/main/Twitter%20Banner.png)
 <h1 align="center">Hi 👋, I'm Puneet Sharma</h1>
 <h3 align="center">A passionate Game Developer from India</h3>
 
